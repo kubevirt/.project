@@ -26,7 +26,7 @@ repositories:
 
 website: "https://kubevirt.io/"
 
-artwork: "https://landscape.cncf.io/logos/kubevirt.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubevirt"
 
 adopters:
   path: "https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md"
